@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab17</string>
+    <string name="student_name">Имя: %s</string>
+    <string name="student_course">Курс: %d</string>
+    <string name="student_status">Статус: %s</string>
+    <string name="promote_button_text">Перевести на следующий курс</string>
+</resources>
